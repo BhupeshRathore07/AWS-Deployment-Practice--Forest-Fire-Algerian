@@ -8,8 +8,3 @@ To run flask application
 ```
 python app.py
 ```
-
-
-To access your flask application open new tab in and paste the url:
-
-http://algerianforestfire-env.eba-a9zbimvv.ap-south-1.elasticbeanstalk.com/predictdata
