@@ -24,8 +24,6 @@ Open a browser and go to `http://localhost:5000` to view the application.
 
 To deploy the application to AWS Elastic Beanstalk, follow the steps mentioned in the official [AWS Elastic Beanstalk documentation](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/GettingStarted.html).
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+---
 
 ### ENJOY DATA SCIENCE 'N' CODING 🐍😎
